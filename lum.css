@@ -1,0 +1,17 @@
+@media(max-width:600px){
+   .Have{
+    font-size: 5px;
+    margin-top: 9px;
+   }
+   .contact{
+    font-size: 5px;
+    /* margin-top: -30px; */
+    padding: 15px;
+
+   }
+   .It{
+    font-size: 7px;
+   }
+   
+
+}
